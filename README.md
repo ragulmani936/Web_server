@@ -47,4 +47,6 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT:
+![Webpage](https://github.com/ragulmani936/Web_server/blob/main/Screenshot%20(4).png?raw=true)
 ## RESULT:
+Web server created successfully
